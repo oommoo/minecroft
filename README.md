@@ -27,3 +27,6 @@ Instance: i-05bb7f163e43161e3
 	  ip: 10.64.128.172
 	  eip:  eipassoc-00a97bb89d2e89a4f
 
+# gandi 
+
+Some of the information needs to be deployed onto the gandi infrastructure.  The primary mechanism for this will be git.
