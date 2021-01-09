@@ -1,3 +1,11 @@
+# minecroft
+
+The bancroft wprld does include some virtual spaces.
+
+   minecraft.virtual.bancroft.world 
+
+# editors 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/oommoo/minecroft/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
