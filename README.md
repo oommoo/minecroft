@@ -11,6 +11,8 @@ Some time ago, my employment with an ISP allowed placement of a physical server 
 
 The simplest infrastructure deployment was use an AWS EC2 instance. We were able to host ten to twenty folks in a t3.meduim (2 vCPU, 4 GiB memory, 24 CPU credits / hour). For convenience, we treat the EIP as an independent infrastructure entity.
 
+[AWS Infrastructure](docs/figs/MinecroftAWS.png)
+
 VPC : mc-east-farm, vpc-0113b01e137cc7023
 
 Subnet: subnet-0429e15831382aa10
